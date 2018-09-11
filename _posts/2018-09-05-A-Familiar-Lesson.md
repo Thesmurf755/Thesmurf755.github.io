@@ -11,7 +11,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>A fresh New Year and Start</td>
+    <td>A Fresh New Year and Start</td>
     <td>Date</td>
     <td>05/09/18</td>
   </tr>
