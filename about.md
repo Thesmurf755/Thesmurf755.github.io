@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello there, 
+You may remember me from last year when I did blogs in Computing. This is the same concept, but this year I come back bigger and better.
+Enjoy redaing my fabulous blogs!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
