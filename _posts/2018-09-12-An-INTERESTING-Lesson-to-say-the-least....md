@@ -38,8 +38,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Persevering</td>
-    <td>There was no need for me to persevere as this was more of a lesson with a chat.</td>
+    <td>Persevering</td>    <td>There was no need for me to persevere as this was more of a lesson with a chat.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
