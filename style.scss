@@ -174,7 +174,17 @@ vertical-align: middle;
 .wrapper-masthead {
   margin-bottom: 50px;
 }
-
+.container {
+ box-shadow: 20px 20px 10px rgba(60, 60, 60, 0.7);
+ margin: 0 auto;
+ max-width: 850px;
+ padding: 0 10px;
+ width: 100%;
+ background: linear-gradient(rgba(0, 255, 69, 0.72), rgba(95, 95, 95, 0.72));
+ border-radius: 25px;
+ padding: 20px;
+ border-bottom: 1.5px darkGray;
+}
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
